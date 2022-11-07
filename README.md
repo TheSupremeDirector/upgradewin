@@ -1,5 +1,6 @@
 # upgradewin
-The classic upgrading Windows through all of it's versions experiment, simplified for you by TSD
+The classic upgrading Windows through all of it's versions experiment, simplified for you by TSD (WIP)
+
 
 
 Operating systems up through Windows 7 are abondonware, so I feel no guilt providing anything
@@ -14,8 +15,9 @@ Operating systems up through Windows 7 are abondonware, so I feel no guilt provi
 
 XP=====M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
 
-this is a work in progress
+
 
 # Instructions
 You're going to want to install something like Virtualbox (https://www.virtualbox.org) which is a FREE virtual machine software, unless you want to do this on physical hardware
 
+Our story begins with MS-DOS, or the Microsoft Disk Operating System
