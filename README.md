@@ -1,2 +1,22 @@
 # upgradewin
 The classic upgrading Windows through all of it's versions experiment, simplified for you by TSD
+
+
+Operating systems up through Windows 7 are abondonware, so I feel no guilt providing anything
+
+
+## Product Keys:
+95     875-7215850
+98     BMB9C-2TXWY-TYD2H-FMQ2D-2J84C
+2000   RM233-2PRQQ-FR4RH-JP89H-46QYB
+XP     M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
+
+
+
+
+
+
+
+
+
+this is a work in progress
