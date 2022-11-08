@@ -37,6 +37,4 @@ VISTA=====xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
 # Instructions
 You're going to want to install something like Virtualbox (https://www.virtualbox.org) which is a FREE virtual machine software, unless you want to do this on physical hardware
 
-Our story begins with MS-DOS, or the Microsoft Disk Operating System. For this experiment we will be using MS-DOS 5.0, because the MS-DOS 6.X and above versions are incompatible with Windows 1.0. I found an apparently rare version of MS-DOS 5.0 that only uses one floppy disk. I tested it and it worked just fine. I also included the .txt description that came with it below.
-
-[MS-DOS 5.0 Single Disk Version.txt](https://github.com/TheSupremeDirector/upgradewin/files/9966042/MS-DOS.5.0.Single.Disk.Version.txt)
+Our story begins with MS-DOS, or the Microsoft Disk Operating System. For this experiment we will be using MS-DOS 5.0, because the MS-DOS 6.X and above versions are incompatible with Windows 1.0. I found an apparently rare version of MS-DOS 5.0 that only uses one floppy disk. I tested it and it worked just fine. I also included the .txt description that came with it.
