@@ -1,0 +1,9 @@
+MS-DOS 5.0 Single 1.44 MB Disk Version
+Dated 11-11-1991
+
+This is the same as the three disk version except the second two
+disks are compressed into a .zip file and setup uses pkunzip.exe to
+extract them to the harddrive.  This is a genuine Microsoft product
+and not an aftermarket compilation.
+
+This seems to be a rare and hard to find version.
