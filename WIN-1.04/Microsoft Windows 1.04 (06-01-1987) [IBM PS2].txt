@@ -1,0 +1,23 @@
+Microsoft Windows 1.04 (06-01-1987) [IBM PS2]
+Released in 1987 by Microsoft/IBM
+For IBM PS/2 Computers
+
+This is the OEM version of Windows 1.04 distributed by IBM with some
+of their earlier IBM PS/2 computers.
+
+These disks contain support for the IBM PS/2 Model 30, 50, 60, 80 and
+were distributed using 3.5" 720k media. They include drivers for the
+IBM PS/2 mouse interface, IBM MCGA video (monochrome VGA), IBM VGA
+video, and IBM 8514/A video. Because these standards were adopted on
+PC clones, these disks will work on many other computers and
+emulators.
+
+When installing, select "IBM Personal System/2 Mouse" as the mouse 
+device, and PS/2 Model 50, 60, 80 as the video system.
+
+Disk 1 - Setup/Build (10F0195)
+Disk 2 - Utilities/Fonts Disk (10F0198)
+Disk 3 - Applications/Write Disk (01F0401)
+
+This version of Windows was used as the runtime in the "IBM PS/2
+Collegiate Kit"
