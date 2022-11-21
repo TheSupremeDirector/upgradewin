@@ -43,4 +43,4 @@ Next we have Windows 1.0X. I used the Windows 1.04 OEM for IBM. This is because 
 
 Following Windows 1.04 is Windows 2.03. During setup make sure you select IBM Personal System/2 Model 50, 60, 80 and that you skip setting up a printer. https://github.com/TheSupremeDirector/upgradewin/tree/main/WIN-2.03
 
-Windows 3.0 will finally detect an existing Windows installation and upgrade it rather than completely overwriting it. Not only this, but it will also automatically detect your computer's hardware. However, you should still double-check that all of the settings are correct. We are greeted with a beautiful graphical installation screen upon floppy #2, where we once again skip setting up a printer.
+Windows 3.0 will finally detect an existing Windows installation and upgrade it rather than completely overwriting it. Not only this, but it will also automatically detect your computer's hardware. However, you should still double-check that all of the settings are correct. We are greeted with a beautiful graphical installation screen upon floppy #2, where we once again skip setting up a printer. https://github.com/TheSupremeDirector/upgradewin/tree/main/WIN-3.0
