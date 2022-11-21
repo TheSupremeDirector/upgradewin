@@ -41,4 +41,4 @@ Our story begins with MS-DOS, or the Microsoft Disk Operating System. For this e
 
 Next we have Windows 1.0X. I used the Windows 1.04 OEM for IBM. This is because it has native suport for both PS/2 and VGA. Make sure to select a PS/2 Mouse (option 7), and then Model 50, 60, 80 (option 2). Select N when asked about a printer. https://github.com/TheSupremeDirector/upgradewin/tree/main/WIN-1.04
 
-Following Windows 1.04 is Windows 2.03. During setup make sure you select Model 50, 60, 80 and the rest of the options you can leave as the defaults. https://github.com/TheSupremeDirector/upgradewin/tree/main/WIN-2.03
+Following Windows 1.04 is Windows 2.03. During setup make sure you select IBM Personal System/2 Model 50, 60, 80 and that you skip setting up a printer. https://github.com/TheSupremeDirector/upgradewin/tree/main/WIN-2.03
